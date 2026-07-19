@@ -1,0 +1,6 @@
+{
+  "name": "Contrepoint",
+  "description": "An agentic system that analyzes scientific literature to identify, extract, cluster, and weigh genuine contradictions between studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
